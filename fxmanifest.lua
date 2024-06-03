@@ -3,8 +3,8 @@
 
 version '1.0.0'
 author 'c_r'
-description 'Show id.'
-repository 'https://github.com/citizenfx/cfx-server-data'
+description 'Show id, needs ox_lib.'
+repository 'https://github.com/C-r0/id-command-fivem'
 lua54 'yes'
 
 client_scripts {
