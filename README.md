@@ -1,2 +1,2 @@
-Command /id that shows you'r ID FIVEM
+Command /id that shows ID FIVEM
 needs ox_lib
